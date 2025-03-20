@@ -1,6 +1,6 @@
 ***1.Integración de Herramientas Avanzadas:***
 
-El curso permitió dominar tecnologías clave como PySpark, Spark SQL
+Dominio de tecnologías clave como PySpark, Spark SQL
 y Delta Lake, esenciales para el manejo de datos distribuidos y en la nube.
 Estas herramientas facilitan el procesamiento eficiente de grandes volúmenes de
 datos y la ejecución de tareas complejas de ETL (Extract, Transform, Load).
